@@ -64,7 +64,7 @@ According to the results, we can see that males have more rides than females; Su
 
 Two additional visualizations are suggested for future analysis
 
-- The bikes used the longest will probably be the ones that require the most maintenance, so we'll need to determine which bikes have the highest sum of "Tripduration."
+- The bikes used the longest will probably be the ones that require the most maintenance, so we'll need to determine which bikeid have the highest sum of "Tripduration."
 
 - We will import more csv data files for other months and compare the trip rides across the whole year.
 

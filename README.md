@@ -1,6 +1,6 @@
 
 # NYC Citi Bike Analysis
-Tableau:
+Tableau Public:
 [link to NYC Citi Bike Story](https://public.tableau.com/app/profile/ning.yang/viz/NYC_CitiBike_Challenge_16546215103060/NYCCitiBikeStory?publish=yes)
 ## <font color=#6495ED>Overview of Project</font>
 We were impressed by the bike share program when we visited New York city.  We are planning to start a similar business for home town. The mechanics of making this business work might be different. We decide to figure out how the bike share business actually works in New York city. 
